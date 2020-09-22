@@ -1,5 +1,5 @@
 Link on <a href="http://rpubs.com/vanilla_nadal/coursera_repData_2" target="_blank">RPubs</a>  
-My [Coursera-Reproducible-Research](https://github.com/kpacharya/Coursera-Reproducible-Research) Repo  
+My [Coursera-Reproducible-Research](https://github.com/Karly96/Reproducible-Research-Course-Project2.git) Repo  
 
 # Reproducible-Research-Course-Project2
 ### Introduction
